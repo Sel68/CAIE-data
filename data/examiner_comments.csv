@@ -1,0 +1,30 @@
+subject_code,year,session,paper_number,variant,question_number,label,comment_text
+9702,2025,March,2,2,1,a,The vast majority of candidates gave an acceptable explanation of accuracy. A small number inappropriately explained precision.
+9702,2025,March,2,2,1,b(i),"The majority gave a correct equation. Errors occurred in unit conversions (g to kg, cm to m)."
+9702,2025,March,2,2,1,b(ii),Stronger candidates obtained correct % uncertainty. Many failed to multiply volume % uncertainty by three.
+9702,2025,March,2,2,1,b(iii),Challenging question. Strongest candidates described overlap of ranges. Many recognised values are 'close' but did not identify overlap.
+9702,2025,March,2,2,2,a,Very few fully correct answers. Many omitted 'about the same point' or 'rotational equilibrium'.
+9702,2025,March,2,2,2,b(i),Generally well answered. Common mistake was incorrect moment for the weight of the beam.
+9702,2025,March,2,2,2,b(ii),Majority equated upthrust with weight and beam force. Weaker candidates tried using F = rho*g*V unsuccessfully.
+9702,2025,March,2,2,2,b(iii),Strong candidates used upthrust and cylinder volume. Many misused given force from beam instead of upthrust. Answers often incorrectly given to 1sf.
+9702,2025,March,2,2,2,b(iv),Generally understood positive gradient. Weaker candidates drew line from origin instead of non-zero depth.
+9702,2025,March,2,2,3,a(i),Majority calculated acceleration using constant acceleration equations. Weaker candidates tried t = 180/13.
+9702,2025,March,2,2,3,a(ii),Straightforward for many. Common mistake was 1/2*m*(v-u)^2.
+9702,2025,March,2,2,3,b(i),Majority gave correct definition. Significant number gave 'mass times acceleration' which is not the definition.
+9702,2025,March,2,2,3,b(ii),Errors in power of ten and sequence of subtraction (initial vs final momentum).
+9702,2025,March,2,2,3,b(iii),Few provided fully correct explanation. Many incorrectly stated same time due to same momentum change and force.
+9702,2025,March,2,2,4,a,Full explanations rare. Many used non-technical terms like 'bounced off'. Some confused with two-source interference.
+9702,2025,March,2,2,4,b(i),Majority recalled c = f*lambda. Power of ten errors common. Some incorrect rounding.
+9702,2025,March,2,2,4,b(ii),Minority understood distance was 1/4 lambda. Most thought it was 1/2 lambda.
+9702,2025,March,2,2,4,b(iii),Well answered. Linked same distance to unchanged wavelength/frequency.
+9702,2025,March,2,2,5,a,Stronger candidates calculated period from CRO trace. Failures often due to incorrect time-base reading or units.
+9702,2025,March,2,2,5,b,Many recognised moving away. Few linked continuous increase in period to increasing speed.
+9702,2025,March,2,2,6,a,Majority calculated correct p.d. Weaker candidates had power of ten errors with m-ohms.
+9702,2025,March,2,2,6,b(i),Majority gave area in terms of resistivity correctly.
+9702,2025,March,2,2,6,b(ii),Generally well answered. Weaker candidates unaware of meaning of number density.
+9702,2025,March,2,2,6,b(iii),Straightforward for stronger candidates. Common mistake: using total charge carriers instead of number density.
+9702,2025,March,2,2,6,c(i),Challenging. Many focused on change in resistance along length rather than comparing total resistance.
+9702,2025,March,2,2,6,c(ii),Most realized non-zero start. Straight line was common error instead of increasing positive gradient.
+9702,2025,March,2,2,7,a,Majority gave correct values. Common errors: Rn nucleon number 218.
+9702,2025,March,2,2,7,b,Stronger candidates applied conservation of momentum. Common error: using proton number instead of mass number.
+9702,2025,March,2,2,7,c,Very few gave three correct conserved quantities. 'Mass' and 'energy' were common incorrect answers.

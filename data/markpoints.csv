@@ -1,0 +1,59 @@
+subject_code,year,session,paper_number,variant,question_number,label,point_number,description,marks,type
+9702,2025,March,2,2,1,a,1,how close the (measured) value is to the true value (of the quantity),1,A1
+9702,2025,March,2,2,1,b(i),1,(rho =) m / V,1,C1
+9702,2025,March,2,2,1,b(i),1,= 31.3 * 10^-3 / (1.53 * 10^-2)^3 = 8.7 * 10^3 (kg/m^3),2,A1
+9702,2025,March,2,2,1,b(ii),1,(0.5 / 31.3) or (0.01 / 1.53),1,C1
+9702,2025,March,2,2,1,b(ii),1,% uncertainty = (0.016 * 100) + 3 * (0.0065 * 100) = 4%,2,A1
+9702,2025,March,2,2,1,b(iii),1,The ranges (of the densities of A and B) overlap OR the (calculated) density of A is within the range of the density of B OR the difference in densities is within the uncertainty (of B),1,M1
+9702,2025,March,2,2,1,b(iii),1,(so) they could be the same,2,A1
+9702,2025,March,2,2,2,a,1,in (rotational) equilibrium,1,B1
+9702,2025,March,2,2,2,a,1,sum / total of CW moments about a point = sum / total of ACW moments about the (same) point.,2,B1
+9702,2025,March,2,2,2,b(i),1,"The magnitudes of the moments about A are: (1700 * 3.0), (660 x), (1300 * 5). Correct magnitude of any one moment.",1,C1
+9702,2025,March,2,2,2,b(i),1,Correct magnitudes of a second moment about A.,2,C1
+9702,2025,March,2,2,2,b(i),1,(1700 * 3.0) + (660 x) = (1300 * 5) -> x = 2.1 m,3,A1
+9702,2025,March,2,2,2,b(ii),1,(Upthrust =) 11 * 9.81 + 1300 = 1400 (N),1,A1
+9702,2025,March,2,2,2,b(iii),1,y = Upthrust / rho*g*A,1,C1
+9702,2025,March,2,2,2,b(iii),1,= 1400 / (990 * 9.81 * pi * (0.78 / 2)^2) = 0.30 m,2,A1
+9702,2025,March,2,2,2,b(iv),1,line with a non-zero value of depth at distance = 0,1,B1
+9702,2025,March,2,2,2,b(iv),1,A line from distance = 0 to distance = 6.0 m with a gradient that is always positive,2,B1
+9702,2025,March,2,2,3,a(i),1,a = (v^2 - u^2) / 2s,1,C1
+9702,2025,March,2,2,3,a(i),1,= (22^2 - 13^2) / (2 * 180) = 0.88 m/s^2,2,A1
+9702,2025,March,2,2,3,a(ii),1,(Delta)E = 1/2*m*(Delta)v^2,1,C1
+9702,2025,March,2,2,3,a(ii),1,gain in KE = 1/2*m*(v^2 - u^2),2,C1
+9702,2025,March,2,2,3,a(ii),1,= 1/2 * 9400 * (22^2 - 13^2) = 1.5 * 10^6 J,3,A1
+9702,2025,March,2,2,3,b(i),1,rate of change of momentum,1,B1
+9702,2025,March,2,2,3,b(ii),1,(Force =) (2.5 * 10^4 - 21 * 10^4) / 15 = - 1.2 * 10^4 (N),1,A1
+9702,2025,March,2,2,3,b(iii),1,The change of momentum (for S and R to come to rest) is the same,1,B1
+9702,2025,March,2,2,3,b(iii),1,(Average) force on R (to come to rest) is (–21 * 10^4 / 23 =) 0.91 * 10^4 N OR less than force on S,2,B1
+9702,2025,March,2,2,3,b(iii),1,(S will come to rest in) less time (than R).,3,B1
+9702,2025,March,2,2,4,a,1,(micro)wave (from the transmitter) reflects (at metal/sheet),1,B1
+9702,2025,March,2,2,4,a,1,The incident and reflected waves superpose,2,B1
+9702,2025,March,2,2,4,a,1,(resultant) amplitude is maximum at an antinode,3,B1
+9702,2025,March,2,2,4,a,1,(resultant) amplitude is minimum/zero at a node,4,B1
+9702,2025,March,2,2,4,b(i),1,lambda = c / f,1,C1
+9702,2025,March,2,2,4,b(i),1,= 3 * 10^8 / 6.3 * 10^9 = 0.048 m,2,A1
+9702,2025,March,2,2,4,b(ii),1,distance PQ = 1/4 * lambda = 0.048 / 4 = 0.012 m,1,A1
+9702,2025,March,2,2,4,b(iii),1,(Distance QR is the) same (as PQ) and depends only on wavelength which is unchanged.,1,B1
+9702,2025,March,2,2,5,a,1,T = 5.8 * 5.0 * 10^-4 = 2.9 * 10^-3,1,C1
+9702,2025,March,2,2,5,a,1,lambda = vT or v = f*lambda and f = 1/T,2,C1
+9702,2025,March,2,2,5,a,1,lambda = 330 * 2.9 * 10^-3 = 0.96 m,3,A1
+9702,2025,March,2,2,5,b,1,(loudspeaker) moves away (from the microphone),1,B1
+9702,2025,March,2,2,5,b,1,at an increasing speed / whilst accelerating,2,B1
+9702,2025,March,2,2,6,a,1,V = IR = 0.85 * 3.3 * 10^-3,1,C1
+9702,2025,March,2,2,6,a,1,= 2.8 * 10^-3 V,2,A1
+9702,2025,March,2,2,6,b(i),1,(A =) rho*L / R,1,C1
+9702,2025,March,2,2,6,b(i),1,= 1.8 * 10^-8 * 0.24 / 3.3 * 10^-3 = 1.3 * 10^-6 (m^2),2,A1
+9702,2025,March,2,2,6,b(ii),1,(n =) 2.6 * 10^22 / (1.3 * 10^-6 * 0.24) = 8.3 * 10^28 (m^-3),1,A1
+9702,2025,March,2,2,6,b(iii),1,v = I / nAq,1,C1
+9702,2025,March,2,2,6,b(iii),1,= 0.85 / (8.3 * 10^28 * 1.3 * 10^-6 * 1.6 * 10^-19) = 4.9 * 10^-5 m/s,2,A1
+9702,2025,March,2,2,6,c(i),1,Length (of Q) is greater (than P),1,B1
+9702,2025,March,2,2,6,c(i),1,(Average cross-sectional) area (of Q) is less (than P),2,B1
+9702,2025,March,2,2,6,c(i),1,Resistance is proportional to length / (cross-sectional) area,3,M1
+9702,2025,March,2,2,6,c(i),1,(so) the resistance (of Q) is greater (than P),4,A1
+9702,2025,March,2,2,6,c(ii),1,A line starting from a non-zero value of drift speed at distance = 0,1,B1
+9702,2025,March,2,2,6,c(ii),1,A line with an increasing positive gradient,2,B1
+9702,2025,March,2,2,7,a,1,"nucleon number of Q (Rn) = 222 and proton number of R (Rn) = 86 (Wait, Rn is the result. Q in the MS refers to nucleon number. MS says: nucleon number of Q = 226 and proton number of R = 86. Actually Q/R are placeholders in the MS notation for the blanks.)",1,B1
+9702,2025,March,2,2,7,b,1,4(u) * 1.5 * 10^7 or 222(u) * v,1,C1
+9702,2025,March,2,2,7,b,1,v = 4(u) * 1.5 * 10^7 / 222(u),2,C1
+9702,2025,March,2,2,7,b,1,= 2.7 * 10^5 m/s,3,A1
+9702,2025,March,2,2,7,c,1,"Any three from: momentum, charge, nucleon number, neutron number, proton number",1,B3
